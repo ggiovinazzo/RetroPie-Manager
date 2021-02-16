@@ -1,0 +1,13 @@
+# Exclude from commit bytecode files
+*.pyc
+
+# Exclude from commit venv directories
+/bin
+/include
+/lib
+/local
+/share
+
+# Exclude from commit Retropie-Setup config files
+retropie.pkg
+retropie_repository.pkg
